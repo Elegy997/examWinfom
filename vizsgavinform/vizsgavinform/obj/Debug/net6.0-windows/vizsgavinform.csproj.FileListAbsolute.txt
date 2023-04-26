@@ -1,0 +1,17 @@
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\bin\Debug\net6.0-windows\vizsgavinform.exe
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\bin\Debug\net6.0-windows\vizsgavinform.deps.json
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\bin\Debug\net6.0-windows\vizsgavinform.runtimeconfig.json
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\bin\Debug\net6.0-windows\vizsgavinform.dll
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\bin\Debug\net6.0-windows\vizsgavinform.pdb
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.csproj.AssemblyReference.cache
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.Form1.resources
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.csproj.GenerateResource.cache
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.AssemblyInfoInputs.cache
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.AssemblyInfo.cs
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.csproj.CoreCompileInputs.cache
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.dll
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\refint\vizsgavinform.dll
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.pdb
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\vizsgavinform.genruntimeconfig.cache
+C:\Users\barna\source\repos\vizsgavinform\vizsgavinform\obj\Debug\net6.0-windows\ref\vizsgavinform.dll
